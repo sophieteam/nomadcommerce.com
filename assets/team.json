@@ -1,0 +1,312 @@
+{
+    "team": [
+        {
+            "isim": "Abdullah Bakmaz",
+            "img": "assets/images/person/abdullah-bakmaz.jpg",
+            "unvan": "Android Developer",
+            "twitter": "https://twitter.com/AbdulahBakmaz",
+            "facebook": "https://www.facebook.com/apobakmaz",
+            "linkedin": "https://tr.linkedin.com/pub/abdullah-bakmaz/79/a57/727",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Ali Uyanık",
+            "img": "assets/images/person/ali-uyanik.jpg",
+            "unvan": "Software Developer",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/aliuyanik85",
+            "linkedin": "https://tr.linkedin.com/pub/ali-uyanık/57/65a/194",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Ahmet Deniz",
+            "img": "assets/images/person/ahmet-deniz.jpg",
+            "unvan": "Front-End Developer",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/ahmet.deniz.9638718?ref=bookmarks",
+            "linkedin": "https://tr.linkedin.com/in/ahmet-deniz-a08349122",
+            "github": "https://github.com/Ahmtdnz",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Bahadır Şahin",
+            "img": "assets/images/person/bahadir-sahin.jpg",
+            "unvan": "Software Developer",
+            "twitter": "",
+            "facebook": "",
+            "linkedin": "https://www.linkedin.com/in/absahin",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Begüm Pasinli",
+            "img": "assets/images/person/begum-pasinli.jpg",
+            "unvan": "Backend Developer",
+            "twitter": "",
+            "facebook": "",
+            "linkedin": "http://linkedin.com/in/begüm-pasinli-6082745a",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Berat Akman Tetik",
+            "img": "assets/images/person/berat-akman-tetik.jpg",
+            "unvan": "Front-End Developer",
+            "twitter": "https://twitter.com/beratetik",
+            "facebook": "https://www.facebook.com/berattetik",
+            "linkedin": "https://tr.linkedin.com/in/berattetik",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Bilal Hatipoğlu",
+            "img": "assets/images/person/bilal-hatipoglu.jpg",
+            "unvan": "Software Developer",
+            "twitter": "",
+            "facebook": "",
+            "linkedin": "https://tr.linkedin.com/in/bilal-hatipoğlu-35906153",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Büşra Temur",
+            "img": "assets/images/person/busra-temur.jpg",
+            "unvan": "System Analyst",
+            "twitter": "",
+            "facebook": "",
+            "linkedin": "https://tr.linkedin.com/in/busratemur",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Çağkan Aksun Yüksel",
+            "img": "assets/images/person/cagkan-aksun-yuksel.jpg",
+            "unvan": "Software Development Manager",
+            "twitter": "https://twitter.com/barmenseriff",
+            "facebook": "",
+            "linkedin": "https://tr.linkedin.com/in/cagkanaksunyuksel",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Duygu Çelen",
+            "img": "assets/images/person/duygu-celen.jpg",
+            "unvan": "Executive Assistant & Personel Affairs",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/duygu.celen.165",
+            "linkedin": "",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Ezgi Varol",
+            "img": "assets/images/person/ezgi-varol.jpg",
+            "unvan": "Android Developer",
+            "twitter": "",
+            "facebook": "",
+            "linkedin": "https://tr.linkedin.com/pub/ezgi-varol/102/94a/a37",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Gizem Dovan",
+            "img": "assets/images/person/gizem-dovan.jpg",
+            "unvan": "Business Analyst",
+            "twitter": "https://twitter.com/gizemdovan",
+            "facebook": "https://www.facebook.com/gizem.dovan",
+            "linkedin": "https://tr.linkedin.com/pub/gizem-dovan/4b/b37/a83",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Gökhan Öztürk",
+            "img": "assets/images/person/gokhan-ozturk.jpg",
+            "unvan": "-",
+            "twitter": "https://twitter.com/OzturkGokhan4",
+            "facebook": "https://www.facebook.com/GkhNl",
+            "linkedin": "https://tr.linkedin.com/in/gökhan-öztürk-935b4b84",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Gürol Gürkan",
+            "img": "assets/images/person/gurol-gurkan.jpg",
+            "unvan": "Software Development Manager",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/eniac",
+            "linkedin": "https://tr.linkedin.com/in/gurolgurkan",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "İlyas Yavuz",
+            "img": "assets/images/person/ilyas-yavuz.jpg",
+            "unvan": "Android & iOS Developer",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/ilyas0101",
+            "linkedin": "https://www.linkedin.com/in/ilyasyavuz",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "M. Onur Uzuner",
+            "img": "assets/images/person/mehmet-onur-uzuner.jpg",
+            "unvan": "Android Developer",
+            "twitter": "https://twitter.com/bilmuhhonor",
+            "facebook": "https://www.facebook.com/mehmetonuruzuner",
+            "linkedin": "https://tr.linkedin.com/pub/mehmet-onur-uzuner/89/560/285",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Mehmet Emin Yilmaz",
+            "img": "assets/images/person/mehmet-emin-yilmaz.jpg",
+            "unvan": "Business Analyst",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/profile.php?id=1569523374",
+            "linkedin": "https://www.linkedin.com/in/mehmet-emin-yılmaz-83111b115",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Meriç Can",
+            "img": "assets/images/person/meric-can.jpg",
+            "unvan": "Project Manager",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/mrccnm",
+            "linkedin": "https://tr.linkedin.com/in/mericcan",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Merve Çelebican",
+            "img": "assets/images/person/merve-yildiz.jpg",
+            "unvan": "Finance & Accounting",
+            "twitter": "",
+            "facebook": "",
+            "linkedin": "",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Mustafa Özgüner",
+            "img": "assets/images/person/mustafa-ozguner.jpg",
+            "unvan": "Front-End Developer",
+            "twitter": "",
+            "facebook": "",
+            "linkedin": "",
+            "github": "https://github.com/mzgnr",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Nihat Hazımoğlu",
+            "img": "assets/images/person/nihat-hazimoglu.jpg",
+            "unvan": "Business Analyst",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/nihat.hazimoglu",
+            "linkedin": "https://www.linkedin.com/in/nihat-hazımoğlu-4038b5b3",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Selahaddin Yıldırım",
+            "img": "assets/images/person/dumy.jpg",
+            "unvan": "Software Developer",
+            "twitter": "http://twitter.com/csselo",
+            "facebook": "http://www.facebook.com/csselo",
+            "linkedin": "http://tr.linkedin.com/csselo",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Serdar Gökalp",
+            "img": "assets/images/person/serdar-gokalp.jpg",
+            "unvan": "Project Manager",
+            "twitter": "https://twitter.com/gokalp_serdar",
+            "facebook": "https://www.facebook.com/comserdar",
+            "linkedin": "tr.linkedin.com/in/serdargokalp",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Serkan Ağdelen",
+            "img": "assets/images/person/serkan-agdelen.jpg",
+            "unvan": "Full Stack Developer",
+            "twitter": "https://twitter.com/agdelens",
+            "facebook": "https://www.facebook.com/agdelen",
+            "linkedin": "https://tr.linkedin.com/pub/serkan-ağdelen/23/955/a60",
+            "github": "https://github.com/agdelen",
+            "behance": "",
+            "stackoverflow": "http://stackoverflow.com/users/4170354/agdelen"
+        },
+        {
+            "isim": "Sümer Akbulut",
+            "img": "assets/images/person/dumy.jpg",
+            "unvan": "Project Manager",
+            "twitter": "",
+            "facebook": "",
+            "linkedin": "",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Süleyman Çimenli",
+            "img": "assets/images/person/suleyman-cimenli.jpg",
+            "unvan": "Project Manager",
+            "twitter": "https://twitter.com/suleymancimenli",
+            "facebook": "",
+            "linkedin": "https://tr.linkedin.com/in/süleyman-çimenli-34aa7b39",
+            "github": "",
+            "behance": "",
+            "stackoverflow": ""
+        },
+        {
+            "isim": "Tuğrul Emre Atalay",
+            "img": "assets/images/person/tugrul-emre-atalay.jpg",
+            "unvan": "Lead Front-End Developer",
+            "twitter": "https://twitter.com/teatalay",
+            "facebook": "https://www.facebook.com/teatalay",
+            "linkedin": "https://tr.linkedin.com/in/teatalay",
+            "github": "",
+            "behance": "",
+            "stackoverflow": "http://stackoverflow.com/users/2121065/tu%C4%9Frul-emre-atalay"
+        },
+        {
+            "isim": "V. Mahir Yılmaz",
+            "img": "assets/images/person/vedat-mahir-yilmaz.jpg",
+            "unvan": "Lead Software Engineer",
+            "twitter": "https://twitter.com/vedatmahir",
+            "facebook": "https://www.facebook.com/vmyilmaz",
+            "linkedin": "https://tr.linkedin.com/pub/vedat-mahir-yilmaz",
+            "github": "https://github.com/vedatmahir",
+            "behance": "",
+            "stackoverflow": ""
+        }
+    ]
+}

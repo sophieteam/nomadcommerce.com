@@ -1,0 +1,176 @@
+<!doctype html>
+<!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="lt-ie9 no-js"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <title>Nomad Commerce</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/foundation.css">
+      <link rel="stylesheet" href="assets/css/style.css">
+      <link rel="stylesheet" href="assets/css/fonts.css">
+      <link rel="icon" href="assets/images/favico.png">
+  </head>
+  <body>
+
+    <div class="team">
+        <div id="navigation">
+                <div class="row">
+                    <div class="large-12 columns">
+                        <nav class="top-bar" data-topbar role="navigation">
+                            <ul class="title-area">
+                                <li>
+                                    <a href="index.html" class="logo"></a>
+                                </li>
+                                <li class="toggle-topbar menu-icon">
+                                    <a href="#">Menu</a>
+                                </li>
+                            </ul>
+                            <section class="top-bar-section">
+                                <ul class="menu right">
+                                    <li><a href="index.html" class="item">home</a></li>
+                                    <li><a href="portfolio.html" class="item">portfolio</a></li>
+                                    <li><a href="http://cortexmw.com/" target="_blank" class="item">cortex</a></li>
+                                    <li><a href="team.html" class="item active">team</a></li>
+                                    <!--li><a href="news.html" class="item">news</a></li-->
+                                    <li><a href="contact.html#work" class="item">contact</a></li>
+                                </ul>
+                            </section>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        <section id="home" class="clearfix pad-large">
+            <div class="row header">
+                <div class="large-12 columns text-center">
+                    <div class="section-title">
+                        <h2 class="heading">Team</h2>
+                        <h5 class="team-info">Nomadians are a great group of professionals working passionately at great projects with cutting edge technologies. But more than this they are a gang of friends love to spend time together.</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="large-12 medium-12 small-12 columns">
+
+                <ul class="clearfix" id="teamlist">
+
+                    <li class="large-4 medium-4 small-12 columns">
+                         <div class="teamlist">
+                            <span class="person-pict">
+                             <img src="assets/images/king.png" class="king">
+                             <img src="assets/images/person/umut-gokcen.jpg">
+                                <div class="private">
+                                    <div class="frame">
+                                        <a target="_blank" href="https://tr.linkedin.com/in/umutgokcen/tr" class="linkedin-pe pe"></a>
+                                    </div>
+                                </div>
+                            </span>
+                            <span class="person">Umut Gökçen Yılmaz</span>
+                            <span class="unvan">King of Nomad</span>
+                        </div>
+                    </li>
+                    <li class="large-4 medium-4 small-12 columns">
+                         <div class="teamlist">
+                            <span class="person-pict">
+                            <img src="assets/images/bulb.png" class="king bulb">
+                            <img src="assets/images/person/onur-gokmen.jpg">
+                                <div class="private">
+                                    <div class="frame">
+                                        <a target="_blank" href="https://tr.linkedin.com/in/onur-cem-gökmen-23900271/tr" class="linkedin-pe pe"></a>
+                                    </div>
+                                </div>
+                            </span>
+                            <span class="person">Onur Cem Gökmen</span>
+                            <span class="unvan">The Inventor</span>
+                        </div>
+                    </li>
+                    <li class="large-4 medium-4 small-12 columns">
+                         <div class="teamlist">
+                            <span class="person-pict">
+                            <img src="assets/images/black-hat-2.png" class="king hat">
+                            <img src="assets/images/person/ahmet-ertan-algan.png">
+                                <div class="private">
+                                    <div class="frame">
+                                        <a href="//www.linkedin.com/in/ahmetertanalgan" target="_blank" class="linkedin-pe pe"></a>
+                                    </div>
+                                </div>
+                            </span>
+                            <span class="person">Ahmet Ertan Algan</span>
+                            <span class="unvan">Captain</span>
+                        </div>
+                    </li>
+                </ul>
+
+                </div>
+            </div>
+        </section>
+        <section id="footer" class="clearfix">
+            <div class="row">
+                <div class="large-12 columns">
+                    <ul>
+                        <li>© Copyright 2015  |  All Right Reserved</li>
+                        <li>İstanbul / Turkey</li>
+                        <li>+90 212 318 01 06</li>
+                        <li><a href="mailto:info@nomadcommerce.com">info@nomadcommerce.com</a></li>
+                        <span>
+                            <li><a href="https://www.linkedin.com/company/3253372" target="_blank" class="linkedin"></a></li>
+                            <li><a href="https://twitter.com/NomadNews" target="_blank" class="twitter"></a></li>
+                            <li><a href="https://www.facebook.com/nomadcommerce" target="_blank" class="facebook"></a></li>
+                            <li><a href="https://www.instagram.com/nomad_commerce/" target="_blank" class="instagram"></a></li>
+                        </span>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </div>
+     <script id="team" type="text/template">
+        {{#team}}
+         <li class="large-3 medium-4 small-6 columns">
+             <div class="teamlist">
+                <span class="person-pict"><img src="{{img}}">
+                    <div class="private">
+                        <div class="frame">
+                            {{#linkedin}}
+                            <a target="_blank" href="{{linkedin}}" class="linkedin-pe pe"></a>
+                            {{/linkedin}}
+                            {{#twitter}}
+                            <a target="_blank" href="{{twitter}}" class="twitter-pe pe"></a>
+                            {{/twitter}}
+                            {{#behance}}
+                            <a target="_blank" href="{{behance}}" class="behance-pe pe"></a>
+                            {{/behance}}
+                            {{^behance}}
+                                {{#github}}
+                                <a target="_blank" href="{{github}}" class="github-pe pe"></a>
+                                {{/github}}
+                                {{^github}}
+                                    {{#stackoverflow}}
+                                    <a target="_blank" href="{{stackoverflow}}" class="stack-pe pe"></a>
+                                    {{/stackoverflow}}
+                                    {{^stackoverflow}}
+                                    {{#facebook}}
+                                    <a target="_blank" href="{{facebook}}" class="facebook-pe pe"></a>
+                                    {{/facebook}}
+                                    {{/stackoverflow}}
+                                {{/github}}
+                            {{/behance}}
+
+                        </div>
+                    </div>
+                </span>
+                <span class="person">{{isim}}</span>
+                <span class="unvan">{{unvan}}</span>
+            </div>
+        </li>
+        {{/team}}
+    </script>
+    <script src="assets/js/vendor/mustache.min.js"></script>
+    <script src="assets/js/vendor/jquery.min.js"></script>
+    <script src="assets/js/vendor/foundation.js"></script>
+    <script src="assets/js/vendor/sscr.js"></script>
+    <script src="assets/js/team.js"></script>
+  </body>
+</html>
